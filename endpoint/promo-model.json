@@ -1,0 +1,51 @@
+[
+  {
+    "page":{
+      "url":"http://www.nationalgeographic.com/adventure/trips/best-trails/best-backpacking-trips-parks",
+      "target":"_self",
+      "title":"10 Best Backpacking Trips in U.S. Parks",
+      "abstract":"This year the National Park Service (NPS) celebrates its 100th birthday. Over the past century, the agency has protected and managed a system that has grown to now include 59 parks in 27 states and ranges from famed summer-vacation destination icons like Yellowstone and Yosemite to the remote 8.4 million wild acres of Alaska\u2019s Gates of the Arctic and tropical paradises like Florida\u2019s Dry Tortugas. Of course, the parks can be popular, but don\u2019t let that scare you away this summer. The best way to truly immerse yourself in these wild landscapes is to get away from the gawking roadside crowds and spend days exploring their deep, primal secrets by foot. To that end, and to celebrate a hundred years of the NPS, we offer up these best ten backpacking trips in the parks.",
+      "series":"Climate Action"
+    },
+    "image":{
+      "url":"http://www.nationalgeographic.com/content/dam/adventure/photos/000/938/93886.ngsversion.1476997823782.jpg",
+      "altText":"Picture of a hiker on the Wonderland Trail in Mount Rainier National Park"
+    }
+  },
+  {
+    "page":{
+      "url":"http://www.nationalgeographic.com/adventure/trips/best-trails/worlds-best-hikes-dream-trails",
+      "target":"_blank",
+      "title":"World&apos;s Best Hikes: 20 Hikers&apos; Dream Trails - National Geographic",
+      "abstract":"This year we asked 20 outdoor luminaries\u2014from trail runners to CEOs to beloved authors\u2014about the trails they dream about. Here are their picks for the world's best hikes. Ready for adventure?",
+      "isSponsored": true
+    },
+    "image":{
+      "url":"http://www.nationalgeographic.com/content/dam/adventure/photos/000/687/68721.ngsversion.1476997900547.jpg",
+      "altText":"Picture of Topher Gaylord running through the Val Ferret, Tour of Mont Blanc, Courmayeur, Italy"
+    }
+  },
+  {
+    "page":{
+      "url":"http://www.nationalgeographic.com/adventure/trips/best-trails/worlds-thrilling-hikes-trails",
+      "target":"_blank",
+      "title":"World&apos;s Best Hikes: 20 Thrilling Trails",
+      "abstract":"Some hikes are peaceful rambles in the woods, and those are just fine for quiet contemplation. But the hikes that really open your eyes are the thrill rides. The following 20 walks take in perilous heights, erupting volcanoes, treacherous steps, and other hair-raising moments. They range from what are essentially low-level rock climbs to strolls on narrow ridges\u2014and they are all guaranteed to up your heart rate."
+    },
+    "image":{
+      "url":"http://www.nationalgeographic.com/content/dam/adventure/photos/000/798/79898.ngsversion.1467939607944.jpg",
+      "altText":"Picture of two hikers descending the Besseggen Ridge, Norway"
+    }
+  },
+  {
+    "page":{
+      "url":"http://www.nationalgeographic.com/adventure/trips/best-trails/worlds-best-grail-trails",
+      "target":"_self",
+      "title":"World&apos;s Best Hikes: Epic Trails",
+      "abstract":"A truly great trail winds into the essence of a place, so when assembling this list of the world\u2019s great hikes we kept an eye on more than the footpath. We looked for walks that travel deeper into a location\u2019s history and culture. Sure, there\u2019s outdoor adventure on each of these 20 hikes, but the trails also tell a rich story. So here they are, the holy grails of trails across the world."
+    },
+    "image":{
+      "url":"http://www.nationalgeographic.com/content/dam/adventure/photos/000/563/56342.ngsversion.1476997810134.jpg"
+    }
+  }
+]
